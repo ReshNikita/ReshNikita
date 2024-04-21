@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshnikita&label=Profile%20views&color=0e75b6&style=flat" alt="reshnikita" /> </p>
 
-- 🔭 I’m currently working on [Hacker News Clone](https://github.com/ReshNikita/Hacker-News)
+- 🔭 I’m currently working on [Coincap](https://github.com/ReshNikita/coincap)
 
 - 🌱 I’m currently learning **React, Redux Toolkit, TypeScript**
 

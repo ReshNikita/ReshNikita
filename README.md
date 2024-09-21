@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Coincap](https://github.com/ReshNikita/coincap)
 
-- 🌱 I’m currently learning **React, Redux Toolkit, TypeScript**
+- 🌱 I’m currently learning **React, Redux Toolkit, TypeScript, Next.js**
 
-- 📫 How to reach me **nikitareshetnikov03@gmail.com**
+- 📫 How to reach me **rieshietnikov.nikita.1998@mail.ru**
 
-- ⚡ Fun fact **I would like to go on a trip with Bear Grylls and eat all the strange things he usually eats:)**
+- ⚡ Fun fact **I'm crazy music lover. Can't live without it. I love everything from Elvis, The Beatles to Slipknot, System of a Down, Eminem, lo-fi, classical music and much more:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

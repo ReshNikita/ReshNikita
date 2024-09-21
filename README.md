@@ -10,12 +10,12 @@
 
 - 📫 How to reach me **rieshietnikov.nikita.1998@mail.ru**
 
-- ⚡ Fun fact **I'm crazy music lover. Can't live without it. I love everything from Elvis, The Beatles to Slipknot, System of a Down, Eminem, lo-fi, classical music and much more:)**
+- ⚡ Fun fact **I'm a crazy music lover. Can't live without it. I love everything from Elvis, The Beatles to Slipknot, System of a Down, Eminem, lo-fi, classical music and much more:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikita-reshetnikov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-reshetnikov/" height="30" width="40" /></a>
-<a href="https://instagram.com/nikitareshetnikov10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikitareshetnikov10" height="30" width="40" /></a>
+<a href="https://t.me/Nikitos10J" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
